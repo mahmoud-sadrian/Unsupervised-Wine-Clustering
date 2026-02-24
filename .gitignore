@@ -1,2 +1,9 @@
 /figs
 /plots
+
+*.gz
+*.tex
+*.toc
+*.out
+*.aux
+*.log
